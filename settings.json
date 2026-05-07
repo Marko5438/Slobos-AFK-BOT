@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "247servertest.aternos.me",
-    "port": 53707,
+    "ip": "eigserver.aternos.me",
+    "port": 26366,
     "version": "1.21.1"
   },
   "position": {
